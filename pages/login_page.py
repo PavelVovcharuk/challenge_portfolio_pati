@@ -1,8 +1,8 @@
 import driver
 
 from pages.base_page import BasePage
-#
-#
+
+
 class LoginPage(BasePage):
  login_field_xpath = driver.find_element_by_id("//*[@id='login']")
  password_field_xpath = driver.find_element_by_id("//*[@id='password']")

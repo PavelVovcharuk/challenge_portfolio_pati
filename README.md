@@ -4,3 +4,11 @@
 <p>Hello, my name is Pavlo Vovcharuk. I'm a master's degree student majoring 
 in Computer <br>Science and Project management.  I'm here to improve y software testing skills, to learn something 
 new and interesting  and start my career in IT area.  </p>
+
+login_field_xpath
+//*[@id='login']
+
+password_field_xpath
+//*[@id='password']
+sign_in_button_xpath
+//*[@id='Sign in']"
